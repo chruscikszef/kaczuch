@@ -1,0 +1,2 @@
+# kaczuch
+Zbiór wszystkich kaczuchów
